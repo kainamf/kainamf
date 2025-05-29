@@ -58,7 +58,6 @@ Nos bastidores, estou sempre estudando algo novo — seja Clean Architecture no 
 
 ## ⚡ Fun facts
 
-- 🎓 Estudando para o concurso da Polícia Federal — porque conhecer o outro lado da mesa é sempre útil 🕵️
 - 📐 Tenho um lado lógico afiado por conta da Matemática, mas nunca deixo de lado a empatia no design
 - 🎮 Às vezes programo como se fosse resolver um puzzle — mas sempre com foco em entregar valor
 
