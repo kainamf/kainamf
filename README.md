@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Kainã Freitas
 
-💻 Desenvolvedor de Software | 🌐 Full Stack (React + .NET Core) | ☁️ AWS | 🎯 Foco em Arquitetura, UX e Escalabilidade
+💻 Desenvolvedor de Software | 🌐 Full Stack (React + Node.js) | ☁️ AWS | 🎯 Foco em Arquitetura, UX e Escalabilidade
 
 ---
 
@@ -13,28 +13,38 @@ No momento, faço parte do time de plataforma no [**Eitri**](https://www.eitri.t
 - 🛠️ Eitri Forge: criação de modelos de apps customizados
 - 📚 Documentação técnica da plataforma e CLI
 
-Também atuo como freelancer com **Power BI** para análise operacional e inspeções industriais, com foco em modelagem de dados relacional, DAX e performance com query folding.
-
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Principais Projetos
 
 ### 🔹 [Eitri Platform](https://www.eitri.tech/)
 > Plataforma modular de criação de apps com foco em escalabilidade, personalização e colaboração entre times.
+
+### 🔹 Apps Demo de Lojas VTEX (Eitri Forge)
+Desenvolvimento de aplicativos demo personalizados para lojas VTEX, em colaboração direta com o time comercial do **Eitri**.  
+Essas soluções foram utilizadas em eventos, reuniões com clientes e materiais promocionais, com foco na **apresentação de produto** e **captação de leads qualificados**.  
+Destaque para a participação no **VTEX Day 2025**, com demonstrações ao vivo utilizando o Eitri Forge.
+
+### 🔹 Landing Pages Otimizadas
+Criação de landing pages responsivas e com foco em conversão, voltadas para aquisição de clientes por profissionais como psicólogos, educadores físicos e autônomos em geral.  
+Apliquei boas práticas de **SEO**, **acessibilidade**, **performance** e **design centrado no usuário**, visando maximizar o alcance orgânico e o engajamento.
 
 ### 🔹 Dashboards de Inspeções Industriais
 > Soluções desenvolvidas em Power BI para gestão operacional e análise de indicadores em empresas da área industrial.
@@ -51,17 +61,19 @@ Nos bastidores, estou sempre estudando algo novo — seja Clean Architecture no 
 
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kainafreitas)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kainamf)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kainafreitas)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kainamf)  
+[![Instagram](https://img.shields.io/badge/-@dev.kmf-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dev.kmf/)
 
 ---
 
 ## ⚡ Fun facts
 
-- 📐 Tenho um lado lógico afiado por conta da Matemática, mas nunca deixo de lado a empatia no design
-- 🎮 Às vezes programo como se fosse resolver um puzzle — mas sempre com foco em entregar valor
+- 🎯 Faço commits semânticos até em projetos pessoais — clareza nunca é demais
+- 🎮 Às vezes programo como se estivesse resolvendo um puzzle
+- 💡 Adoro simplificar soluções complexas e explicar ideias difíceis com clareza
 
 ---
 
-📌 **Sempre em busca de construir soluções que sejam simples de entender, fáceis de manter e ótimas de usar.**
+📌 **Construir soluções simples, bem pensadas e orientadas ao impacto: é isso que me move.**
 
