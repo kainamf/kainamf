@@ -4,7 +4,7 @@
 
 ---
 
-Sou um desenvolvedor fullstack apaixonado por criar soluções robustas, escaláveis e centradas no usuário. Atuo fortemente com **React, TypeScript, Next.js, .NET Core e AWS**, com foco em arquitetura limpa, testes automatizados e boas práticas de DevOps.
+Sou um desenvolvedor fullstack apaixonado por criar soluções robustas, escaláveis e centradas no usuário. Atuo fortemente com **React, TypeScript, Next.js e AWS**, com foco em arquitetura limpa, testes automatizados e boas práticas de DevOps.
 
 No momento, faço parte do time de plataforma no [**Eitri**](https://www.eitri.tech/), contribuindo com:
 
