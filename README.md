@@ -44,8 +44,8 @@ Destaque para a participação no **VTEX Day 2025**, com demonstrações ao vivo
 ### 🔹 Landing Pages Otimizadas para Conversão
 Criação de landing pages responsivas com foco em aquisição de clientes, usando boas práticas de **SEO**, **acessibilidade**, **performance** e **design centrado no usuário**.
 
-- [**Psicóloga Sil Rafrasson**](https://github.com/kainamf/psilrafrasson) — Interface minimalista e moderna, com foco na jornada do paciente e CTA estratégicos.  
-- [**Psicóloga Gabrielle Marques**](https://github.com/kainamf/psigabrielle) — Página leve e objetiva, com ênfase em credibilidade e autoridade profissional.  
+- [**Psicóloga Lara Frasson**](https://github.com/kainamf/psilrafrasson) — Interface minimalista e moderna, com foco na jornada do paciente e CTA estratégicos.  
+- [**Psicóloga Gabrielle Mazulo**](https://github.com/kainamf/psigabrielle) — Página leve e objetiva, com ênfase em credibilidade e autoridade profissional.  
 
 ### 🔹 Dashboards de Inspeções Industriais
 > Soluções desenvolvidas em Power BI para gestão operacional e análise de indicadores em empresas da área industrial.
