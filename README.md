@@ -8,10 +8,10 @@ Sou um desenvolvedor fullstack apaixonado por criar soluções robustas, escalá
 
 No momento, faço parte do time de plataforma no [**Eitri**](https://www.eitri.tech/), contribuindo com:
 
-- 🔐 Gestão de perfis, usuários e permissões
-- 🧭 Navegabilidade e experiência do usuário na plataforma
-- 🛠️ Eitri Forge: criação de modelos de apps customizados
-- 📚 Documentação técnica da plataforma e CLI
+- 🔐 Gestão de perfis, usuários e permissões  
+- 🧭 Navegabilidade e experiência do usuário na plataforma  
+- 🛠️ Eitri Forge: criação de modelos de apps customizados  
+- 📚 Documentação técnica da plataforma e CLI  
 
 ---
 
@@ -29,7 +29,6 @@ No momento, faço parte do time de plataforma no [**Eitri**](https://www.eitri.t
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
 ---
 
 ## 🚀 Principais Projetos
@@ -42,9 +41,11 @@ Desenvolvimento de aplicativos demo personalizados para lojas VTEX, em colabora�
 Essas soluções foram utilizadas em eventos, reuniões com clientes e materiais promocionais, com foco na **apresentação de produto** e **captação de leads qualificados**.  
 Destaque para a participação no **VTEX Day 2025**, com demonstrações ao vivo utilizando o Eitri Forge.
 
-### 🔹 Landing Pages Otimizadas
-Criação de landing pages responsivas e com foco em conversão, voltadas para aquisição de clientes por profissionais como psicólogos, educadores físicos e autônomos em geral.  
-Apliquei boas práticas de **SEO**, **acessibilidade**, **performance** e **design centrado no usuário**, visando maximizar o alcance orgânico e o engajamento.
+### 🔹 Landing Pages Otimizadas para Conversão
+Criação de landing pages responsivas com foco em aquisição de clientes, usando boas práticas de **SEO**, **acessibilidade**, **performance** e **design centrado no usuário**.
+
+- [**Psicóloga Sil Rafrasson**](https://github.com/kainamf/psilrafrasson) — Interface minimalista e moderna, com foco na jornada do paciente e CTA estratégicos.  
+- [**Psicóloga Gabrielle Marques**](https://github.com/kainamf/psigabrielle) — Página leve e objetiva, com ênfase em credibilidade e autoridade profissional.  
 
 ### 🔹 Dashboards de Inspeções Industriais
 > Soluções desenvolvidas em Power BI para gestão operacional e análise de indicadores em empresas da área industrial.
@@ -69,11 +70,11 @@ Nos bastidores, estou sempre estudando algo novo — seja Clean Architecture no 
 
 ## ⚡ Fun facts
 
-- 🎯 Faço commits semânticos até em projetos pessoais — clareza nunca é demais
-- 🎮 Às vezes programo como se estivesse resolvendo um puzzle
-- 💡 Adoro simplificar soluções complexas e explicar ideias difíceis com clareza
+- 🎯 Faço commits semânticos até em projetos pessoais — clareza nunca é demais  
+- 🎮 Às vezes programo como se estivesse resolvendo um puzzle  
+- 💡 Adoro simplificar soluções complexas e explicar ideias difíceis com clareza  
 
 ---
 
 📌 **Construir soluções simples, bem pensadas e orientadas ao impacto: é isso que me move.**
-
+"""
