@@ -56,8 +56,6 @@ Criação de landing pages responsivas com foco em aquisição de clientes, usan
 
 Atualmente graduando em Matemática pela IBMR, sou movido pela busca constante por eficiência técnica e clareza arquitetural. Gosto de atuar próximo ao time de produto para garantir que cada entrega seja funcional, intuitiva e orientada ao valor real para o usuário.
 
-Nos bastidores, estou sempre estudando algo novo — seja Clean Architecture no Frontend, testes E2E com Playwright, ou como melhorar o DevX em ferramentas internas.
-
 ---
 
 ## 🔗 Conecte-se comigo
