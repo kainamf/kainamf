@@ -46,6 +46,7 @@ Criação de landing pages responsivas com foco em aquisição de clientes, usan
 
 - [**Psicóloga Lara Frasson**](https://github.com/kainamf/psilrafrasson) — Interface minimalista e moderna, com foco na jornada do paciente e CTA estratégicos.  
 - [**Psicóloga Gabrielle Mazulo**](https://github.com/kainamf/psigabrielle) — Página leve e objetiva, com ênfase em credibilidade e autoridade profissional.  
+- [**Triade da Apresentação Pessoal**](https://github.com/kainamf/triade-da-apresentacao-pessoal) — Página desenvolvida para um evento da equipe Triade da Apresentação Pessoal.
 
 ### 🔹 Dashboards de Inspeções Industriais
 > Soluções desenvolvidas em Power BI para gestão operacional e análise de indicadores em empresas da área industrial.
