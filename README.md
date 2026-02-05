@@ -12,7 +12,7 @@ Meu foco técnico está em **engenharia backend**, **arquitetura limpa**, **obse
 
 ---
 
-## 🏦 Atuação Atual — Pinbank (via Calindra)
+## 🏦 Atuação Atual - Pinbank (via Calindra)
 
 Principais responsabilidades técnicas:
 
@@ -50,7 +50,7 @@ Principais responsabilidades técnicas:
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 Sistemas Financeiros — Pinbank
+### 🔹 Sistemas Financeiros - Pinbank
 > Sustentação e evolução de plataformas de autorização de transações financeiras, com foco em **confiabilidade**, **segurança** e **aderência a padrões de mercado**.
 
 ---
@@ -61,7 +61,7 @@ Principais responsabilidades técnicas:
 ---
 
 ### 🔹 Landing Pages & Produtos Digitais
-> Histórico sólido em criação de interfaces performáticas, acessíveis e orientadas à conversão — hoje aplicado com visão estratégica em produtos financeiros.
+> Histórico sólido em criação de interfaces performáticas, acessíveis e orientadas à conversão, hoje aplicado com visão estratégica em produtos financeiros.
 
 ---
 
@@ -82,4 +82,4 @@ Meu objetivo é construir sistemas **simples de operar, difíceis de quebrar e f
 
 ---
 
-📌 **Engenharia bem-feita é aquela que ninguém percebe — porque simplesmente funciona.**
+📌 **Engenharia bem-feita é aquela que ninguém percebe, porque simplesmente funciona.**
