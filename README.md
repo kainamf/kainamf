@@ -1,99 +1,85 @@
 # 👋 Olá, eu sou o Kainã Freitas
 
-💻 Desenvolvedor de Software | 🌐 Full Stack (React + Node.js) | ☁️ AWS | 🎯 Foco em Arquitetura, UX e Escalabilidade
+💻 Software Engineer | 🏦 Sistemas Financeiros & Pagamentos | ☁️ AWS | 🧠 Foco em Robustez, Arquitetura e Escalabilidade
 
 ---
 
-Sou um desenvolvedor fullstack apaixonado por criar soluções robustas, escaláveis e centradas no usuário.  
-Atuo fortemente com **React, TypeScript, Next.js e AWS**, com foco em **arquitetura limpa**, **testes automatizados** e **boas práticas de DevOps**.
+Sou desenvolvedor de software com atuação em **sistemas financeiros de missão crítica**, trabalhando diretamente com **autorização de transações**, **integrações com adquirentes/bandeiras** e **infraestrutura altamente resiliente**.
 
-Atualmente, faço parte do time de plataforma no [**Eitri**](https://www.eitri.tech/), contribuindo com:
+Atualmente atuo na **Calindra Technology**, alocado na **Pinbank**, contribuindo para a sustentação e evolução de sistemas responsáveis por **fluxos de autorização, controle de risco e comunicação com parceiros financeiros**.
 
-- 🔐 Gestão de perfis, usuários e permissões  
-- 🧭 Navegabilidade e experiência do usuário na plataforma  
-- 🛠️ Eitri Forge: criação de modelos de apps customizados  
-- 📚 Documentação técnica da plataforma e CLI  
+Meu foco técnico está em **engenharia backend**, **arquitetura limpa**, **observabilidade**, **automação de pipelines** e **confiabilidade operacional**, sem perder a visão de produto e impacto no usuário final.
+
+---
+
+## 🏦 Atuação Atual — Pinbank (via Calindra)
+
+Principais responsabilidades técnicas:
+
+- 💳 Manutenção e evolução de **sistemas de autorização de transações**
+- 🏷️ Gestão e controle de **MCCs de risco**
+- 🧩 Suporte a **releases de bandeiras** e adequações regulatórias
+- 🔗 Comunicação e integração com **FIS**
+- ⚙️ Desenvolvimento e manutenção de serviços em **Java** e **Go**
+- 🚦 Atuação direta em **incidentes de produção** e análise de falhas
+- 🔁 Automação e manutenção de **pipelines CI/CD**
+- 📊 Observabilidade, logs e rastreabilidade de fluxos críticos
+- 🛡️ Foco em robustez, segurança e alta disponibilidade
 
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+**Back-end & Sistemas**
+- Java • Go (Golang) • Node.js
+- APIs REST • Microsserviços • Arquitetura orientada a domínio
+
+**Cloud & Infra**
+- AWS (Lambda, API Gateway, S3, DynamoDB, CloudWatch)
+- Docker • CI/CD (GitHub Actions)
+
+**Observabilidade & Confiabilidade**
+- Logs estruturados
+- Monitoramento e análise de incidentes
+- Estratégias de rollback e mitigação de risco
+
+**Front-end & UX (background sólido)**
+- React • Next.js • TypeScript • Tailwind CSS
 
 ---
 
-## 🚀 Principais Projetos
+## 🚀 Projetos em Destaque
 
-### 🔹 [Eitri Platform](https://www.eitri.tech/)
-> Plataforma modular de criação de apps com foco em **escalabilidade**, **personalização** e **colaboração entre times**.
-
-### 🔹 Apps Demo de Lojas VTEX (Eitri Forge)
-Desenvolvimento de aplicativos demo personalizados para lojas VTEX, em colaboração direta com o time comercial do **Eitri**.  
-Essas soluções foram utilizadas em **eventos**, **reuniões com clientes** e **materiais promocionais**, com foco na **apresentação de produto** e **captação de leads qualificados**.  
-Destaque para a participação no **VTEX Day 2025**, com demonstrações ao vivo utilizando o **Eitri Forge**.
+### 🔹 Sistemas Financeiros — Pinbank
+> Sustentação e evolução de plataformas de autorização de transações financeiras, com foco em **confiabilidade**, **segurança** e **aderência a padrões de mercado**.
 
 ---
 
-### 🔹 Landing Pages Otimizadas para Conversão
-Criação de landing pages responsivas e escaláveis com foco em **aquisição de clientes**, aplicando boas práticas de **SEO**, **acessibilidade**, **performance** e **design centrado no usuário**.
-
-- [**Psicóloga Lara Frasson**](https://github.com/kainamf/psilrafrasson) — Interface minimalista e moderna, com foco na jornada do paciente e CTA estratégicos.  
-- [**Psicóloga Gabrielle Mazulo**](https://github.com/kainamf/psigabrielle) — Página leve e objetiva, com ênfase em credibilidade e autoridade profissional.  
-- [**Triade da Apresentação Pessoal**](https://github.com/kainamf/triade-da-apresentacao-pessoal) — Página desenvolvida para um evento da equipe Triade da Apresentação Pessoal.  
-- [**LeTable — Curso de Etiqueta**](https://github.com/kainamf/letable-curso-de-etiqueta) — Landing page elegante e refinada, voltada à apresentação de cursos de etiqueta, com ênfase em estética e clareza visual.  
-- [**Entre Loucas e Gestos**](https://github.com/kainamf/entre-loucas-e-gestos) — Landing page elegante e sofisticada, criada para divulgar o curso de etiqueta com foco em estilo, postura e comportamento profissional. Desenvolvida com Next.js, TypeScript e Tailwind CSS, a página oferece navegação fluida, design responsivo e chamadas de ação estrategicamente posicionadas para conversão. A combinação de estética refinada, tipografia cuidadosa e interações sutis proporciona uma experiência refinada que transmite credibilidade e sofisticação, ideal para engajar o público-alvo e gerar inscrições com confiança.
+### 🔹 Eitri Platform & Eitri Forge
+> Plataforma modular para criação de apps, atuando com micro frontends, APIs serverless e documentação técnica.
 
 ---
 
-### 🔹 Dashboards de Inspeções Industriais
-> Soluções desenvolvidas em **Power BI** para gestão operacional e análise de indicadores em empresas da área industrial.  
-> Inclui modelagem de dados relacional, parametrização dinâmica e otimização de consultas com *query folding*.
-
----
-
-## 🌍 Em Produção
-
-- [**Psicóloga Lara Frasson**](https://www.larafrassonpsicologainfantil.com/)  
-- [**Psicóloga Gabrielle Mazulo**](https://psigabriellemazulo.vercel.app/)  
-- [**Triade da Apresentação Pessoal**](https://triade-da-apresentacao-pessoal.vercel.app/)  
-- [**LeTable — Curso de Etiqueta**](https://letable-curso-de-etiqueta.vercel.app/)  
-- [**Entre Loucas e Gestos**](https://entre-loucas-e-gestos.vercel.app/)  
+### 🔹 Landing Pages & Produtos Digitais
+> Histórico sólido em criação de interfaces performáticas, acessíveis e orientadas à conversão — hoje aplicado com visão estratégica em produtos financeiros.
 
 ---
 
 ## ✍️ Sobre Mim
 
-Atualmente graduando em **Matemática pela IBMR**, sou movido pela busca constante por **eficiência técnica** e **clareza arquitetural**.  
-Gosto de atuar próximo ao **time de produto**, garantindo que cada entrega seja **funcional**, **intuitiva** e **orientada ao valor real para o usuário**.
+Sou formado em **Matemática**, o que influencia diretamente minha forma de pensar sistemas:  
+priorizo **clareza**, **modelagem correta**, **previsibilidade** e **controle de complexidade**.
+
+Gosto de atuar próximo a problemas reais, especialmente onde **falhas têm impacto direto no negócio**.  
+Meu objetivo é construir sistemas **simples de operar, difíceis de quebrar e fáceis de evoluir**.
 
 ---
 
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kainafreitas)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kainamf)  
-[![Instagram](https://img.shields.io/badge/-@dev.kmf-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dev.kmf/)
+[LinkedIn](https://www.linkedin.com/in/kainafreitas)  
+[GitHub](https://github.com/kainamf)
 
 ---
 
-## ⚡ Fun facts
-
-- 🎯 Faço commits semânticos até em projetos pessoais — clareza nunca é demais  
-- 🎮 Às vezes programo como se estivesse resolvendo um puzzle  
-- 💡 Adoro simplificar soluções complexas e explicar ideias difíceis com clareza  
-
----
-
-📌 **Construir soluções simples, bem pensadas e orientadas ao impacto: é isso que me move.**
+📌 **Engenharia bem-feita é aquela que ninguém percebe — porque simplesmente funciona.**
